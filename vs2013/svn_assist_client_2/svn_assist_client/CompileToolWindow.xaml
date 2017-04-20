@@ -1,0 +1,195 @@
+﻿<Window x:Class="svn_assist_client.CompileToolWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:svn_assist_client"
+        Title="编译工具" Height="1000" Width="1500">
+    <Window.Resources>
+        <local:TimeConverter x:Key="cvtDate"></local:TimeConverter>
+    </Window.Resources>
+    <Grid>
+
+        <ListView x:Name="waitingTaskQueueListView" HorizontalAlignment="Left" Height="324" Margin="23,92,0,0" VerticalAlignment="Top" Width="503" SelectionChanged="waitingTaskQueueListView_SelectionChanged"  >
+            <ListView.ContextMenu>
+                <ContextMenu x:Name="WMenu">
+                    <MenuItem x:Name="CancleBtn" Header="Cancle" Click="OnCancleThisTask" />
+                </ContextMenu>
+            </ListView.ContextMenu>
+
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Author" Width="70" DisplayMemberBinding="{Binding Path=Author}"/>
+                    <GridViewColumn Header="Command" Width="200" DisplayMemberBinding="{Binding Path=MoreCommand}"/>
+                    <GridViewColumn Header="State" Width="80" DisplayMemberBinding="{Binding Path=State}" />
+                    <GridViewColumn Header="Time" Width="150" DisplayMemberBinding="{Binding Path=Time, Converter={StaticResource cvtDate}}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView x:Name="finishedTaskQueueListView" HorizontalAlignment="Left" Height="413" Margin="23,465,0,0" VerticalAlignment="Top" Width="503">
+
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Author" Width="70" DisplayMemberBinding="{Binding Path=Author}"/>
+                    <GridViewColumn Header="Command" Width="200" DisplayMemberBinding="{Binding Path=MoreCommand}"/>
+                    <GridViewColumn Header="State" Width="80" DisplayMemberBinding="{Binding Path=State}" />
+                    <GridViewColumn Header="Time" Width="150" DisplayMemberBinding="{Binding Path=Time,  Converter={StaticResource cvtDate}}"/>
+
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Result Info" Click="OnDisplayResult"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+
+
+
+
+
+
+        <TabControl x:Name="svnLogTabControl" HorizontalAlignment="Left" Height="818" Margin="605,61,0,0" VerticalAlignment="Top" Width="835">
+            <TabItem Header="主干代码svn log" x:Name="trunkCodeTabItem">
+                <Grid Background="#FFE5E5E5" >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="240*"/>
+                        <ColumnDefinition Width="367*"/>
+                    </Grid.ColumnDefinitions>
+                    <ListView x:Name="trunkCodeLogListView" HorizontalAlignment="Left" Height="225" Margin="11,10,0,0" VerticalAlignment="Top" Width="808" SelectionChanged="SelectionChanged" Grid.ColumnSpan="2">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Revision" DisplayMemberBinding="{Binding Path=Revision}"/>
+                                <GridViewColumn Header="Author" DisplayMemberBinding="{Binding Path=Author}"/>
+                                <GridViewColumn Header="Time" DisplayMemberBinding="{Binding Path=Time}"/>
+                                <GridViewColumn Header="Message" DisplayMemberBinding="{Binding Path=Short_Message}"/>
+                            </GridView>
+                        </ListView.View>
+
+                    </ListView>
+                    <ListView x:Name="trunkCodeLogPathListView" HorizontalAlignment="Left" Height="218" Margin="11,534,0,0" VerticalAlignment="Top" Width="808" Grid.ColumnSpan="2">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Action" DisplayMemberBinding="{Binding Path=Action}"/>
+                                <GridViewColumn Header="Path" DisplayMemberBinding="{Binding Path=Path}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <TextBox x:Name="trunkCodeLogMessageTextBox" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="243" Margin="11,286,0,0" TextWrapping="Wrap" Text="" IsReadOnly="True" VerticalAlignment="Top" Width="808" Grid.ColumnSpan="2"/>
+                    <Label  Content="Message" HorizontalAlignment="Left" Height="26" Margin="11,260,0,0" VerticalAlignment="Top" Width="586" Grid.ColumnSpan="2"/>
+                    <Label Content="Current Revision:" HorizontalAlignment="Left" Height="25" Margin="10,235,0,0" VerticalAlignment="Top" Width="113"/>
+                    <Label x:Name="currentTrunkRevisionLabel" Content="" HorizontalAlignment="Left" Height="25" Margin="123,235,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                    <Button x:Name="trunkCodeBtn1" Content="" Visibility="Hidden" HorizontalAlignment="Left" Margin="34,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24"/>
+                    <Button x:Name="trunkCodeBtn2" Content="" Visibility="Hidden" HorizontalAlignment="Left" Margin="166,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24" Grid.ColumnSpan="2"/>
+                    <Button x:Name="trunkCodeBtn3" Content="" Visibility="Hidden" HorizontalAlignment="Left" Margin="82,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24" Grid.Column="1"/>
+                    <Button x:Name="trunkCodeBtn4" Visibility="Hidden" Content="" HorizontalAlignment="Left" Margin="236,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24" Grid.Column="1"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="主干编译svn log" x:Name="trunkCompileTabItem">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="trunkCompileLogListView" HorizontalAlignment="Left" Height="240" Margin="11,10,0,0" VerticalAlignment="Top" Width="808"  SelectionChanged="SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Revision" DisplayMemberBinding="{Binding Revision}"/>
+                                <GridViewColumn Header="Author" DisplayMemberBinding="{Binding Author}"/>
+                                <GridViewColumn Header="Time" DisplayMemberBinding="{Binding Time}"/>
+                                <GridViewColumn Header="Message" DisplayMemberBinding="{Binding Short_Message}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <ListView x:Name="trunkCompileLogPathListView" HorizontalAlignment="Left" Height="233" Margin="10,528,0,0" VerticalAlignment="Top" Width="809">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Action" DisplayMemberBinding="{Binding Path=Action}"/>
+                                <GridViewColumn Header="Path" DisplayMemberBinding="{Binding Path=Path}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <TextBox x:Name="trunkCompileLogMessageTextBox" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="219" Margin="11,286,0,0" TextWrapping="Wrap" Text="" IsReadOnly="True" VerticalAlignment="Top" Width="808"/>
+                    <Label Content="Message" HorizontalAlignment="Left" Height="26" Margin="11,260,0,0" VerticalAlignment="Top" Width="586"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="分支代码svn log" x:Name="branchCodeTabItem">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="branchCodeLogListView"  HorizontalAlignment="Left" Height="223" Margin="11,10,0,0" VerticalAlignment="Top" Width="808" SelectionChanged="SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Revision" DisplayMemberBinding="{Binding Revision}"/>
+                                <GridViewColumn Header="Author" DisplayMemberBinding="{Binding Author}"/>
+                                <GridViewColumn Header="Time" DisplayMemberBinding="{Binding Time}"/>
+                                <GridViewColumn Header="Message" DisplayMemberBinding="{Binding Path=Short_Message}" />
+
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <ListView x:Name="branchCodeLogPathListView" HorizontalAlignment="Left" Height="217" Margin="11,521,0,0" VerticalAlignment="Top" Width="808">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Action" DisplayMemberBinding="{Binding Path=Action}"/>
+                                <GridViewColumn Header="Path" DisplayMemberBinding="{Binding Path=Path}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <TextBox x:Name="branchCodeLogMessageTextBox" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="230" Margin="11,286,0,0" TextWrapping="Wrap" Text="" IsReadOnly="True" VerticalAlignment="Top" Width="808"/>
+                    <Label Content="Message" HorizontalAlignment="Left" Height="26" Margin="11,260,0,0" VerticalAlignment="Top" Width="586"/>
+                    <Label Content="Current Revision:" HorizontalAlignment="Left" Height="27" Margin="11,233,0,0" VerticalAlignment="Top" Width="116"/>
+                    <Label x:Name="currentBranchRevisionLabel" Content="" HorizontalAlignment="Left" Height="27" Margin="127,233,0,0" VerticalAlignment="Top" Width="265"/>
+                    <Button x:Name="branchCodeBtn1" Content="" Visibility="Hidden" HorizontalAlignment="Left" Margin="34,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24"/>
+                    <Button x:Name="branchCodeBtn2" Content="" Visibility="Hidden" HorizontalAlignment="Left" Margin="166,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24" Grid.ColumnSpan="2"/>
+                    <Button x:Name="branchCodeBtn3" Content="" Visibility="Hidden" HorizontalAlignment="Left" Margin="82,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24" Grid.Column="1"/>
+                    <Button x:Name="branchCodeBtn4" Visibility="Hidden" Content="" HorizontalAlignment="Left" Margin="236,757,0,0" VerticalAlignment="Top" Width="80" Click="OnBtnClick" Height="24" Grid.Column="1"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="分支编译svn log" x:Name="branchCompileTabItem">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="branchCompileLogListView" HorizontalAlignment="Left" Height="237" Margin="11,10,0,0" VerticalAlignment="Top" Width="808" SelectionChanged="SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Revision" DisplayMemberBinding="{Binding Revision}"/>
+                                <GridViewColumn Header="Author" DisplayMemberBinding="{Binding Author}"/>
+                                <GridViewColumn Header="Time" DisplayMemberBinding="{Binding Time}"/>
+                                <GridViewColumn Header="Message" DisplayMemberBinding="{Binding Short_Message}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <ListView x:Name="branchCompileLogPathListView" HorizontalAlignment="Left" Height="264" Margin="11,505,0,0" VerticalAlignment="Top" Width="808">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Action" DisplayMemberBinding="{Binding Path=Action}"/>
+                                <GridViewColumn Header="Path" DisplayMemberBinding="{Binding Path=Path}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <TextBox x:Name="branchCompileLogMessageTextBox" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="214" Margin="11,286,0,0" TextWrapping="Wrap" Text="" IsReadOnly="True" VerticalAlignment="Top" Width="808"/>
+                    <Label Content="Message" HorizontalAlignment="Left" Height="26" Margin="11,260,0,0" VerticalAlignment="Top" Width="586"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="切换服务器">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="serverListView" HorizontalAlignment="Left" Margin="11,10,0,368" Width="808" SelectionChanged="serverListView_SelectionChanged">
+                        <ListView.ContextMenu>
+                            <ContextMenu x:Name="SMenu">
+
+                            </ContextMenu>
+                        </ListView.ContextMenu>
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Path=ServerName}"/>
+                                <GridViewColumn Header="Path" DisplayMemberBinding="{Binding Path=ServerPath}" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                </Grid>
+            </TabItem>
+
+        </TabControl>
+        <Button x:Name="btnBack" Foreground="Blue" Content="&lt;返回" HorizontalAlignment="Left" Height="27" Margin="23,17,0,0" VerticalAlignment="Top" Width="49" Background="White" BorderThickness="0" Click="OnBack"/>
+        <Button Foreground="Blue" Content="[退出]" HorizontalAlignment="Left" Height="43" Margin="1405,9,0,0" VerticalAlignment="Top" Width="54" Background="White" BorderThickness="0" Click="OnLoginOut"/>
+        <Label Content="待执行队列" HorizontalAlignment="Left" Height="28" Margin="23,64,0,0" VerticalAlignment="Top" Width="277"/>
+        <Label Content="已完成任务列表" HorizontalAlignment="Left" Height="28" Margin="23,437,0,0" VerticalAlignment="Top" Width="277"/>
+
+
+    </Grid>
+</Window>
+

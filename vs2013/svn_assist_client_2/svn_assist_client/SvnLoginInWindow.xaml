@@ -1,0 +1,15 @@
+﻿<Window x:Class="svn_assist_client.SvnLoginInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SvnLoginInWindow" Height="376" Width="425">
+    <Grid>
+        <Label Content="Svn用户验证" FontSize="22" HorizontalAlignment="Center" Height="46" Margin="134,46,113,0" VerticalAlignment="Top" Width="170"/>
+        <Label Content="用户名：" HorizontalAlignment="Left" Height="30" Margin="51,130,0,0" VerticalAlignment="Top" Width="56"/>
+        <TextBox x:Name="usernameTextBox" HorizontalAlignment="Left" Height="30" Margin="122,130,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="235"/>
+        <Label Content="密  码：" HorizontalAlignment="Left" Height="30" Margin="51,182,0,0" VerticalAlignment="Top" Width="56"/>
+        <PasswordBox x:Name="passwordPasswordBox" HorizontalAlignment="Left" Height="29" Margin="122,182,0,0" VerticalAlignment="Top" Width="235"/>
+        <Button Content="确定" HorizontalAlignment="Left" Height="31" Margin="98,280,0,0" VerticalAlignment="Top" Width="76" Click="OnSvnVerify"/>
+        <Button Content="取消" HorizontalAlignment="Left" Height="31" Margin="248,280,0,0" VerticalAlignment="Top" Width="76" Click="OnCancel"/>
+
+    </Grid>
+</Window>

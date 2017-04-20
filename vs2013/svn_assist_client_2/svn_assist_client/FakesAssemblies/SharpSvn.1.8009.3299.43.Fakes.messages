@@ -1,0 +1,586 @@
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SharpSvnStrings 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnBase 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnHandleBase 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprPool 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprStreamFile 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.IItemMarshaller`1 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprArray`2 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprCStrMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprCStrDirentMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprUriMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprRelpathMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprSvnRevNumMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.EnumVerifier 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommandLineArgumentCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnTools 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprBaton`1 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnConfigItem 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnClientHook 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientContext 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommandResult 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRevision 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnTarget 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnUriTarget 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnUriOrigin 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPathTarget 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommitResult 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommittedEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommitItem 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnCommitItemCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommittingEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictSource 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictData 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLockInfo 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNotifyEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnBlameEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDiffSummaryEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnInfoEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDirEntry 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnListEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnListChangeListEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnChangeItem 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnChangeItemCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLoggingEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLogEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergeRange 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergeItemCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergeRangeCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergeItem 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnAppliedMergeInfo 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergesEligibleEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergesMergedEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnProcessingEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnProgressEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPropertyListEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnWorkingCopyInfo 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnStatusEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnChangedEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnChangeInfoEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLookListEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnFileVersionEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPatchFilterEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnInheritedPropertyListEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnWorkingCopyState 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnWorkingCopyEntryEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.SvnRemoteLogEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.SvnRemoteStatEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.SvnRemoteListEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.SvnRemoteListLockEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.SvnRemoteLocationSegmentEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryNotifyEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientConfiguration 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPropertyValue 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPropertyCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRevisionPropertyCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnTargetPropertyCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMergeSource 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryOperationBuilder 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLookOrigin 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.SvnRevisionLocationMap 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMalfunctionException 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthenticationCacheItem 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.ISvnAuthWrapper 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthProviderMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthWrapper`1 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnSslAuthorityTrustEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnCredentialWrapper 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthentication 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _TOKEN_INFORMATION_CLASS 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_node_kind_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_depth_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_checksum_kind_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_io_file_del_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_operation_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_choice_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_diff_conflict_display_style_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_prop_kind 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_load_uuid 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNodeKind 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_array_header_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_string_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommandType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDepth 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryNotifyAction 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRevisionType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNotifyAction 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNotifyState 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnChangeAction 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLockState 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnStatus 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnSchedule 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDirEntryItems 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryFileSystem 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryCompatibility 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDiffKind 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLineStyle 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnAccept 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictReason 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictAction 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnOperation 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnIgnoreSpacing 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCapability 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPropertyKind 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnOverride 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnErrorCode 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnErrorCategory 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnWindowsErrorCode 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnAprErrorCode 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnContextState 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnExtendedState 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnClientHookType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_ctx_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_error_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_commit_info_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_opt_revision_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommitTypes 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_commit_item3_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_version_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_description2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_lock_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_notify_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_diff_summarize_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_info2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_dirent_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_log_changed_path2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_log_entry_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_merge_range_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_status_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_entry_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_dirent_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_location_segment_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_notify_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_node_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthenticationCacheType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_provider_object_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnCertificateTrustFailures 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY08$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY07$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0N@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0M@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY02$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY05$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY03$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY00$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_hash_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_pool_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_file_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_context_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_root_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_ra_session_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_baton_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 PoolAliveRef 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<System::Object ^> 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_allocator_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 TheIPropCollector 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CB@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_prop_inherited_item_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnStreamWrapper 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnWrappedStream 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_checksum_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_stream_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _GUID 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _OVERLAPPED 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 HINSTANCE__ 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _SECURITY_ATTRIBUTES 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_sort__item_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnThreadAbortException 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0HP@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 DelayLoadInfo 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnCopyTargetMarshaller 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BF@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY04$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_cache_config_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CL@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnLocalizerData 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnLocalizer 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_mtcc_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnStatusCacheBlocker 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _LUID 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _TOKEN_STATISTICS 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_stream_mark_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0O@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BL@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BA@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0L@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0P@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BE@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BK@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_simple_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_username_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_ssl_client_cert_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_ssl_client_cert_pw_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_ssl_server_trust_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _CREDENTIALW 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BC@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_ssl_server_cert_info_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnKeywords 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPropertyNames 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConfigNames 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY06$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY09$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BN@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY01$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY04$$CB_W 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY03$$CB_W 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CF@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CK@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 HWND__ 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_config_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnCommitItemMarshaller 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_diff_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BJ@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0DD@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnExceptionContainer 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<System::Exception ^> 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0EAA@D 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0M@D 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnExternalItem 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_external_item2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Diff.SvnFileDiff 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Diff.SvnDiffDisplay 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_diff_file_options_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnMergeRangeMarshaller 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnHookType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY07$$CB_W 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CAA@_W 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _WIN32_FIND_DATAW 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0EAA@_W 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CC@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnUpdateResult 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 do_crop_baton 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CJ@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnKeywordExpansion 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_subst_eol_style 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BD@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CE@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_txdelta_window_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client__pathrev_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_hash_index_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_prop_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 file_version_delta_baton_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BH@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnImportFilterEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_io_dirent2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRevisionPropertyNameCollection 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0DC@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CA@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_opt_revision_range_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 RevisionRangeMarshaller`1 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDirectoryItemEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaNodeEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaSetTargetEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaOpenEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaCloseEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaAbortEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDeleteEntryEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDirectoryAddEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDirectoryOpenEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDirectoryPropertyChangeEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDirectoryAbsentEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaDirectoryCloseEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaWindowEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaCompleteEventArgs 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaFileAddEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaFileOpenEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaFilePropertyChangeEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaFileAbsentEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaFileCloseEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Delta.SvnDeltaFileChangeEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnReplayRevisionStartEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnReplayRevisionEndEventArgs 生成存根: 类型没有系列可见的构造函数。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_delta_editor_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CD@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_status2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_status3_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnLibraryAttribute 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnLibrary 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_result_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_version_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0DP@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CM@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryIdType 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_txn_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnWorkingCopyVersion 生成存根: 类型已密封。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_revision_status_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_adm_access_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_entry_callbacks2_t 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CG@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 root_baton 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 directory_baton 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 file_baton 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<SharpSvn::Delta::SvnDeltaEditor ^> 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<SharpSvn::Delta::SvnDeltaNode ^> 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 base_baton 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BB@$$CBD 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ModuleLoadException 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ModuleLoadExceptionHandlerException 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ModuleUninitializer 生成存根: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 IUnknown 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.LanguageSupport 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<System::String ^> 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 __s_GUID 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY00Q6MPBXXZ 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.Progress 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0A@P6AXXZ 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0A@P6AHXZ 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 __enative_startup_state 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 ICorRuntimeHost 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.TriBool 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 ICLRRuntimeHost 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _EXCEPTION_POINTERS 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ThisModule 生成存根: 类型是一个值类型。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SharpSvnStrings 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnHandleBase 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprPool 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprStreamFile 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.IItemMarshaller`1 生成填充码: 类型是一个接口。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprArray`2 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprCStrMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprCStrDirentMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprUriMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprRelpathMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprSvnRevNumMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.EnumVerifier 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 正在跳过 method System.Boolean SharpSvn.SvnTools.IsEnumValueDefined(!!0 value)，method System.Boolean SharpSvn.SvnTools.IsEnumValueDefined(!!0 value) unstubbable: 不受支持的约束类型
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnTools+SplitCommandExpander 生成填充码: 类型是一个委托。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.AprBaton`1 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnConfigItem 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnClientHook 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientContext+ArgsStore 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientContext+CommitResultReceiver 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientContext+InfoItemCollection`1 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientContext+NoArgsStore 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnClientContext+SingleInfoItemReceiver`1 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.ISvnOrigin 生成填充码: 类型是一个接口。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Remote.ISvnRepositoryListItem 生成填充码: 类型是一个接口。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryOperationBuilder 生成填充码: 类型是一个委托。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.ISvnAuthWrapper 生成填充码: 类型是一个接口。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthProviderMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthWrapper`1 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnUserNamePasswordEventArgs+Wrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnUserNameEventArgs+Wrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnSslAuthorityTrustEventArgs+Wrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnSslServerTrustEventArgs+Wrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnSslClientCertificateEventArgs+Wrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnSslClientCertificatePasswordEventArgs+Wrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnCredentialWrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _TOKEN_INFORMATION_CLASS 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_node_kind_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_depth_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_checksum_kind_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_io_file_del_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_operation_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_choice_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_diff_conflict_display_style_t 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_prop_kind 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_load_uuid 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNodeKind 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_array_header_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_string_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommandType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDepth 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryNotifyAction 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRevisionType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNotifyAction 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnNotifyState 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnChangeAction 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLockState 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnStatus 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnSchedule 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDirEntryItems 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryFileSystem 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryCompatibility 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnDiffKind 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnLineStyle 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnAccept 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictReason 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnConflictAction 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnOperation 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnIgnoreSpacing 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCapability 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnPropertyKind 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnOverride 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnErrorCode 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnErrorCategory 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnWindowsErrorCode 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnAprErrorCode 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnContextState 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnExtendedState 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnClientHookType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_ctx_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_error_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_commit_info_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_opt_revision_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnCommitTypes 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_commit_item3_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_version_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_description2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_lock_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_notify_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_diff_summarize_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_info2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_dirent_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_log_changed_path2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_log_entry_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_merge_range_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_status_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_entry_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_dirent_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_location_segment_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_notify_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_node_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnAuthenticationCacheType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_provider_object_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Security.SvnCertificateTrustFailures 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY08$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY07$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0N@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0M@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY02$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY05$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY03$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY00$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_hash_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_pool_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_file_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_context_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_root_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_repos_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_ra_session_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_baton_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 PoolAliveRef 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<System::Object ^> 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_allocator_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 TheIPropCollector 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CB@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_prop_inherited_item_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnMultiCommandClient+McArgsStore 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnStreamWrapper 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnWrappedStream 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_checksum_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_stream_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _GUID 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _OVERLAPPED 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 HINSTANCE__ 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _SECURITY_ATTRIBUTES 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_sort__item_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnThreadAbortException 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0HP@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 DelayLoadInfo 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnCopyTargetMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BF@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY04$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_cache_config_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CL@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnLocalizerData 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnLocalizer 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client_mtcc_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _LUID 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _TOKEN_STATISTICS 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_stream_mark_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0O@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BL@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BA@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0L@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0P@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BE@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BK@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_simple_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_username_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_ssl_client_cert_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_ssl_client_cert_pw_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_cred_ssl_server_trust_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _CREDENTIALW 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BC@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_auth_ssl_server_cert_info_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY06$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY09$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BN@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY01$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY04$$CB_W 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY03$$CB_W 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CF@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CK@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 HWND__ 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_config_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnCommitItemMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_diff_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BJ@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0DD@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SvnExceptionContainer 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<System::Exception ^> 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0EAA@D 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0M@D 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_external_item2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Diff.SvnDiffDisplay 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_diff_file_options_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.Implementation.SvnMergeRangeMarshaller 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnHookType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY07$$CB_W 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CAA@_W 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _WIN32_FIND_DATAW 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0EAA@_W 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CC@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 do_crop_baton 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CJ@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnKeywordExpansion 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_subst_eol_style 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BD@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CE@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_txdelta_window_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_client__pathrev_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 apr_hash_index_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_prop_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 file_version_delta_baton_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BH@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_io_dirent2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0DC@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CA@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_opt_revision_range_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 RevisionRangeMarshaller`1 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_delta_editor_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CD@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_status2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_status3_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_conflict_result_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_version_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0DP@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CM@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 SharpSvn.SvnRepositoryIdType 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_fs_txn_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_revision_status_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_adm_access_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 svn_wc_entry_callbacks2_t 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0CG@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 root_baton 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 directory_baton 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 file_baton 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<SharpSvn::Delta::SvnDeltaEditor ^> 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<SharpSvn::Delta::SvnDeltaNode ^> 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 base_baton 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0BB@$$CBD 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ModuleLoadException 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ModuleLoadExceptionHandlerException 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ModuleUninitializer 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 IUnknown 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.LanguageSupport 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 gcroot<System::String ^> 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 __s_GUID 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY00Q6MPBXXZ 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.Progress 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0A@P6AXXZ 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CppImplementationDetails>.$ArrayType$$$BY0A@P6AHXZ 生成填充码: 类型不受支持，因为存在内部限制。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 __enative_startup_state 生成填充码: 类型是一个枚举。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 ICorRuntimeHost 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.TriBool 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 ICLRRuntimeHost 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 _EXCEPTION_POINTERS 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。
+C:\Users\red.sun\Documents\visual studio 2013\projects\test5\test3\Fakes\SharpSvn.fakes : warning : 无法为 <CrtImplementationDetails>.ThisModule 生成填充码: 类型对 exported or assembly(SharpSvn.1.8009.3299.43.Fakes) 不可见。

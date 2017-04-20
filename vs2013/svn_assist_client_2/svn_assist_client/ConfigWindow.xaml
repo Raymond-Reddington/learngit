@@ -1,0 +1,79 @@
+﻿<Window x:Class="svn_assist_client.ConfigWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ConfigWindow" Height="920.927" Width="1071.937" ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True">
+    <Grid ScrollViewer.VerticalScrollBarVisibility="Auto" ScrollViewer.CanContentScroll="True">
+
+        <DataGrid x:Name="trunkCodeCommandConfigDataGrid" SelectionUnit="CellOrRowHeader" CanUserAddRows="True" CanUserResizeColumns="False" SelectionMode="Single" Background="GhostWhite" HorizontalAlignment="Left" Height="203" Margin="67,187,0,0" VerticalAlignment="Top" Width="280" ItemsSource="{Binding}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn IsReadOnly="False"  Foreground="Green" Header="名称" Binding="{Binding BtnName}"/>
+                <DataGridTextColumn IsReadOnly="False"  Foreground="Green" Header="命令" Binding="{Binding ConfigKey}"/>
+                <DataGridTextColumn IsReadOnly="False"  Header="脚本" Binding="{Binding ConfigValue}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="tagConfigDataGrid" SelectionUnit="CellOrRowHeader" CanUserAddRows="True" CanUserResizeColumns="False" SelectionMode="Single" Background="GhostWhite" HorizontalAlignment="Left" Height="123" Margin="390,395,0,0" VerticalAlignment="Top" Width="285" ItemsSource="{Binding}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="分支名称" IsReadOnly="False"  Foreground="Green" Binding="{Binding BtnName}"/>
+                <DataGridTextColumn Header="分支参数" IsReadOnly="False"  Binding="{Binding ConfigValue}"/>
+                <DataGridTextColumn Header="父级命令" IsReadOnly="False"  Binding="{Binding ConfigKey}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="提交" HorizontalAlignment="Left" Height="30" Margin="512,833,0,0" VerticalAlignment="Top" Width="121" Click="OnSubmit"/>
+        <Button Foreground="Blue" Content="&lt;返回" HorizontalAlignment="Left" Height="32" Margin="10,10,0,0" VerticalAlignment="Top" Width="52" Background="White" BorderThickness="0" RenderTransformOrigin="0.243,0.865" Click="OnBack"/>
+        <DataGrid x:Name="serverConfigDataGrid" SelectionUnit="CellOrRowHeader" CanUserAddRows="True" CanUserResizeColumns="False" SelectionMode="Single" Background="GhostWhite" HorizontalAlignment="Left" Height="332" Margin="712,186,0,0" VerticalAlignment="Top" Width="285" ItemsSource="{Binding}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ServerName" IsReadOnly="False"  Foreground="Green" Binding="{Binding BtnName}"/>
+                <DataGridTextColumn Header="Path" IsReadOnly="False"  Binding="{Binding ConfigValue}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="workDirTextBox" HorizontalAlignment="Left" Height="30" Margin="143,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="474"/>
+        <Label Content="工作目录:" HorizontalAlignment="Left" Height="28" Margin="50,47,0,0" VerticalAlignment="Top" Width="65"/>
+        <ListView x:Name="svnLogUriListView" HorizontalAlignment="Left" Height="205" Margin="390,572,0,0" VerticalAlignment="Top" Width="607" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="svn" Width="100" DisplayMemberBinding="{Binding Path=BtnName}"/>
+                    <GridViewColumn Header="Uri" Width="450" DisplayMemberBinding="{Binding Path=ConfigValue}"/>
+                    <GridViewColumn>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="..." Click="OnSwitchDir"></Button>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="svnBaseDirTextBox" HorizontalAlignment="Left" Height="30" Margin="143,95,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="474"/>
+        <Label Content="svn 基准目录:" HorizontalAlignment="Left" Height="28" Margin="50,95,0,0" VerticalAlignment="Top" Width="88"/>
+        <DataGrid x:Name="branchCodeCommandConfigDataGrid" SelectionUnit="CellOrRowHeader" CanUserAddRows="True" CanUserResizeColumns="False" SelectionMode="Single" Background="GhostWhite" HorizontalAlignment="Left" Height="191" Margin="66,518,0,0" VerticalAlignment="Top" Width="280" ItemsSource="{Binding}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn IsReadOnly="False"  Foreground="Green" Header="名称" Binding="{Binding BtnName}"/>
+                <DataGridTextColumn IsReadOnly="False"  Foreground="Green" Header="命令" Binding="{Binding ConfigKey}"/>
+                <DataGridTextColumn IsReadOnly="False"  Header="脚本" Binding="{Binding ConfigValue}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="serverCommandConfigDataGrid" SelectionUnit="CellOrRowHeader" CanUserAddRows="True" CanUserResizeColumns="False" SelectionMode="Single" Background="GhostWhite" HorizontalAlignment="Left" Height="169" Margin="395,187,0,0" VerticalAlignment="Top" Width="280" ItemsSource="{Binding}" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn IsReadOnly="False"  Foreground="Green" Header="名称" Binding="{Binding BtnName}"/>
+                <DataGridTextColumn IsReadOnly="False"  Foreground="Green" Header="命令" Binding="{Binding ConfigKey}"/>
+                <DataGridTextColumn IsReadOnly="False"  Header="脚本" Binding="{Binding ConfigValue}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="主干代码svn log 按钮" HorizontalAlignment="Left" Height="29" Margin="66,157,0,0" VerticalAlignment="Top" Width="279"/>
+        <Label Content="分支代码svn log 按钮" HorizontalAlignment="Left" Height="34" Margin="67,484,0,0" VerticalAlignment="Top" Width="279"/>
+        <Label Content="服务器操作 按钮" HorizontalAlignment="Left" Height="34" Margin="395,157,0,0" VerticalAlignment="Top" Width="279"/>
+        <Label Content="svn_switch 参数" HorizontalAlignment="Left" Height="29" Margin="390,361,0,0" VerticalAlignment="Top" Width="279"/>
+        <Label Content="服务器列表" HorizontalAlignment="Left" Height="29" Margin="712,157,0,0" VerticalAlignment="Top" Width="279"/>
+        <Label Content="svn log 的Uri" HorizontalAlignment="Left" Height="34" Margin="390,537,0,0" VerticalAlignment="Top" Width="279"/>
+        <TextBox x:Name="trunkCodeRevesionShell" HorizontalAlignment="Left" Height="30" Margin="159,423,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <Label Content="获取主干代码当前版本的shell：" HorizontalAlignment="Left" Height="28" Margin="68,395,0,0" VerticalAlignment="Top" Width="279"/>
+        <TextBox x:Name="branchCodeRevesionShell" HorizontalAlignment="Left" Height="30" Margin="162,747,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="185"/>
+        <Label Content="获取分支代码当前版本的shell：" HorizontalAlignment="Left" Height="28" Margin="66,714,0,0" VerticalAlignment="Top" Width="279"/>
+
+
+    </Grid>
+</Window>
